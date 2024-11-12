@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "name": "Laptop",
+      "price": "1200",
+      "id": "1"
+    },
+    {
+      "name": "Smartphone",
+      "price": "800",
+      "id": "2"
+    },
+    {
+      "name": "Headphones",
+      "price": "150",
+      "id": "3"
+    },
+    {
+      "name": "Gaming Console",
+      "price": "500",
+      "id": "4"
+    },
+    {
+      "name": "Smartwatch",
+      "price": "200",
+      "id": "5"
+    },
+    {
+      "id": "f163",
+      "name": "",
+      "price": "1200"
+    },
+    {
+      "id": "d5be",
+      "name": "",
+      "price": "1200"
+    },
+    {
+      "id": "3297",
+      "name": "notebook",
+      "price": "$1200"
+    },
+    {
+      "id": "bc98",
+      "name": "iphone 13 pro max ",
+      "price": "700"
+    }
+  ]
+}
